@@ -10,4 +10,6 @@ public class DemoTest4 {
 		System.out.println(c + d);
 		
 }
+
+	System.out.println("My dog is too cute");
 }
